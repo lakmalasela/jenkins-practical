@@ -1,5 +1,5 @@
 
 Hello JenKins I'm from feature_02
 
-Hello JenKins from Master from develop This is Only master
+Hello JenKins from Master from develop This is Only master ; This is master changes
 
