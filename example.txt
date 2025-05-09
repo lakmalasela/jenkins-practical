@@ -1,5 +1,13 @@
 
 Hello JenKins I'm from feature_02
 
+<<<<<<< HEAD
 Hello JenKins from Master from develop This is Only master ; This is master changes
+=======
+
+Hello JenKins from Master from develop JKS LKKS
+
+Hello JenKins from Master from develop This is Only master
+>>>>>>> 39a34969da2a4546473fc6894014cf272ecd6552
+
 
